@@ -1,2 +1,2 @@
 # Dynamic-and-brightness-preserving-histogram-processing
-https://ieeexplore.ieee.org/document/5681130
+This program is an implementation of the paper https://ieeexplore.ieee.org/document/5681130.
